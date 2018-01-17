@@ -1,0 +1,71 @@
+h1{
+	font-family: "playfair display";
+	font-weight: bold;
+	color:#565656;
+	margin-bottom: 20px;
+}
+
+p, 
+nav, 
+a,
+h6 {
+	font-family: "open sans";
+}
+
+body{
+	background-color: #F1EFE8;
+}
+
+li, 
+a,
+h6{
+	color: #627042;
+}
+
+i{
+	margin-right:5px;
+	margin-top: 20px;
+}
+
+.btn{
+	margin-top:20px;
+	background-color: #E35845;
+}
+
+h6{
+	margin-top:20px;
+}
+#logo{
+	position:relative;
+	top:-80px;
+	display: inline-block;
+	width:fit-content;
+	margin: 0 auto;
+
+}
+.bgheading{
+	font-family:"playfair display";
+	font-weight: bold;
+	font-style: italic;
+	font-size: 6.48rem;
+	color:#E6E4DC;
+}
+
+.headline1{
+	font-size: 4.02rem;
+}
+
+
+#orgchk{
+	position:absolute;
+	/*display: inline;*/
+	white-space: nowrap;
+	top: -4rem;
+	z-index: 1;
+
+}
+
+#honestly{
+	top:1rem;
+}
+
